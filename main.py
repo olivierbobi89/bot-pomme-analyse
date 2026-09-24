@@ -8,8 +8,7 @@ logging.basicConfig(
 )
 
 # Remplace les xxxxx par le nouveau token donné par BotFather
-TOKEN = "8718017391:AAE4_B-eZV2X3QlFohugaw27MCTHMaOdLSw
-"
+TOKEN = "8718017391:AAE4_B-eZV2X3QlFohugaw27MCTHMaOdLSw"
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     msg = (
